@@ -1,0 +1,23 @@
+{
+  "name": "dz/notify",
+  "description": "Yii2 modules for notifications",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WiRight",
+      "email": "ruslan.mahin1@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "repositories": [],
+  "autoload": {
+    "psr-4": {
+      "dz\\notify\\": "src/"
+    }
+  }
+}
+
